@@ -1,3 +1,4 @@
 program main
-      write(*,*) "hello,world!"
-      end program main
+      write(*,*) "hello,world! i have tested the notepadpp"
+     pause
+     end program main
